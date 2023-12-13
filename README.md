@@ -1,6 +1,4 @@
-# Project Name
-
-Briefly describe your project in one or two sentences.
+# Breakify project
 
 ## Table of Contents
 
@@ -31,10 +29,10 @@ Simply input your first and last name, and witness the chemistry unfold! If any 
 
 The first screen will direct you to fill in the fields to reveal the chemical elements
 
-![First Screen](https://drive.google.com/file/d/1fDloSFrzRVl_1BYF8JKeLs8_vftVRdxt/view?usp=drive_link)
+![First Screen](src/img/breafiky1.png)
 
 As soon as you fill in the fields, if there are chemical elements hidden on the screen, they will be revealed
 
-![Elements revelead](https://drive.google.com/file/d/1r9vSHtBWqZ5ZZsRbrTemlRCT7x711LDo/view?usp=drive_link)
+![Elements revelead](src/img/breafiky2.png)
 
 You can see the app working at:
