@@ -33,6 +33,6 @@ The first screen will direct you to fill in the fields to reveal the chemical el
 
 As soon as you fill in the fields, if there are chemical elements hidden on the screen, they will be revealed
 
-![Elements revelead](src/img/breafiky2.png)
+![Elements revelead](src/img/breakify2.png)
 
 You can see the app working at:
