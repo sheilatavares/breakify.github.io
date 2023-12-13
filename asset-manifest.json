@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sheilatavares/breakify.github.io/static/css/main.ad2288f0.css",
-    "main.js": "/sheilatavares/breakify.github.io/static/js/main.15202990.js",
-    "static/js/787.9fc5a01c.chunk.js": "/sheilatavares/breakify.github.io/static/js/787.9fc5a01c.chunk.js",
-    "index.html": "/sheilatavares/breakify.github.io/index.html",
-    "main.ad2288f0.css.map": "/sheilatavares/breakify.github.io/static/css/main.ad2288f0.css.map",
-    "main.15202990.js.map": "/sheilatavares/breakify.github.io/static/js/main.15202990.js.map",
-    "787.9fc5a01c.chunk.js.map": "/sheilatavares/breakify.github.io/static/js/787.9fc5a01c.chunk.js.map"
+    "main.css": "/breakify.github.io/static/css/main.ad2288f0.css",
+    "main.js": "/breakify.github.io/static/js/main.32eb7cd9.js",
+    "static/js/787.9fc5a01c.chunk.js": "/breakify.github.io/static/js/787.9fc5a01c.chunk.js",
+    "index.html": "/breakify.github.io/index.html",
+    "main.ad2288f0.css.map": "/breakify.github.io/static/css/main.ad2288f0.css.map",
+    "main.32eb7cd9.js.map": "/breakify.github.io/static/js/main.32eb7cd9.js.map",
+    "787.9fc5a01c.chunk.js.map": "/breakify.github.io/static/js/787.9fc5a01c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad2288f0.css",
-    "static/js/main.15202990.js"
+    "static/js/main.32eb7cd9.js"
   ]
 }
